@@ -14,6 +14,6 @@
 5. [항해 플러스 5주차 후기](https://github.com/CodyMan0/hanghae-plus/blob/main/memorial.md)
 6. [항해 플러스 6주차 후기](https://github.com/CodyMan0/hanghae-plus/blob/main/apply-fsd-in-the-project-1.md)
 7. [항해 플러스 7주차 후기](https://github.com/CodyMan0/hanghae-plus/blob/main/test-code.md)
-8. [항해 플러스 8주차 후기]()
+8. [항해 플러스 8주차 후기](https://github.com/CodyMan0/hanghae-plus/blob/main/tdd.md)
 9. [항해 플러스 9주차 후기](https://github.com/CodyMan0/hanghae-plus/blob/main/cdn-effects.md)
 10. [항해 플러스 10주차 후기](https://github.com/CodyMan0/hanghae-plus/blob/main/10%EC%A3%BC%EC%B0%A8-%ED%9A%8C%EA%B3%A0.md)
